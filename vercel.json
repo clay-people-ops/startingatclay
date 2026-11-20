@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/:section(welcome|logistics|the-week-before|your-first-day|your-first-week|quick-links|faqs)", "destination": "/index.html" }
+  ]
+}
